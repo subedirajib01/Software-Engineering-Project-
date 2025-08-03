@@ -41,3 +41,10 @@
     border: none;
 
 }
+.footer-content-left img{
+    width: 100px;
+    border-radius: 45%;
+    height:100px;
+    
+}
+
